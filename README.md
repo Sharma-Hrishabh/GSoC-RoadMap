@@ -11,7 +11,7 @@
 
 ### About:
 The repository contains the slides used in a talk to motivate the students to participate in open source programs especially Google Summer of Code.
-Check out the live version at  : 	http://sharma-hrishabh.me/GSoC-RoadMap/
+Check out the live version at  : 	http://Sharma-Hrishabh.github.io/GSoC-RoadMap/
 
 ### Made with:
 reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free.
